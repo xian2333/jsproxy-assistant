@@ -2,7 +2,7 @@
 var jsproxy_prefix = localStorage.getItem("jsproxy_prefix");
 
 if (jsproxy_prefix == undefined || jsproxy_prefix == "false"){
-	var prefix = 'https://etherdream.github.io/jsproxy/'
+	var prefix = 'https://boom.intel-2333.workers.dev/'
 	localStorage.setItem('jsproxy_prefix', prefix);
 	$("#auto-open-homepage")[0].value = prefix
 } else {
