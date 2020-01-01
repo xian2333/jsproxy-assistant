@@ -1,6 +1,6 @@
 <p align="center"><img width="15%" src="icons/icon-128.png" /></p>
 <h1 align="center">jsproxy助手</h1>
-  [jsproxy](https://github.com/EtherDream/jsproxy) 是一款很棒的前端代理，jsproxy助手则是一款辅助jsproxy使用的chrome插件，帮助你更方便的使用jsproxy代理程序。
+  [jsproxy](https://github.com/EtherDream/jsproxy) 是一款很棒的前端代理，jsproxy助手则是一款辅助jsproxy使用的chrome插件，帮助你更方便的使用jsproxy代理程序。插件原项目：https://github.com/Nicolana/jsproxy-assistant
 
 ## 安装说明
 
@@ -15,10 +15,10 @@
 
 ## 开发说明
 
-- 这只是自用产品，如有问题请随时与我联系。 email: juniverstu@outlook.com
+- 这只是自用产品，如有问题请随时与我联系。 email: xian2333@outlook.com
 - 本插件内置代理已被修改，如失效可以切换
-https://boom.intel-2333.workers.dev/
-https://boom2.intel-2333.workers.dev/
-https://boom3.intel-2333.workers.dev/
-https://boom4.intel-2333.workers.dev/
-
+- https://boom.intel-2333.workers.dev/
+- https://boom2.intel-2333.workers.dev/
+- https://boom3.intel-2333.workers.dev/
+- https://boom4.intel-2333.workers.dev/
+- 代理可用于GitHub加速下载
