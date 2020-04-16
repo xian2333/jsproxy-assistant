@@ -15,10 +15,7 @@
 
 ## 开发说明
 
-- 这只是自用产品，如有问题请随时与我联系。 email: xian2333@outlook.com
+- 这只是自用产品，如有问题请随时与我联系。
 - 本插件内置代理已被修改，如失效可以切换
-- https://boom.intel-2333.workers.dev/
-- https://boom2.intel-2333.workers.dev/
-- https://boom3.intel-2333.workers.dev/
-- https://boom4.intel-2333.workers.dev/
+- https://funny.intel-2333.workers.dev/
 - 代理可用于GitHub加速下载
